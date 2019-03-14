@@ -11,7 +11,7 @@
 * ### Práctica 4
   * **Objetivo:** Mostrar una etiqueta con un mensaje.
 * ### Práctica 5
-  * **Objetivo:** Modificar el texto de una etiqueta posterior a presionar un boton.
+  * **Objetivo:** Mostrar una barra deslizante, cada vez que se actualice deberá mostrar el valor correspondiente en una etiqueta (TextView)
 * ### Práctica 6
   * **Objetivo:** Crear una aplicación con una actividad con notificaciones Toast en cada uno de los métodos del ciclo de vida: onCreate, onStart, onResume, onPause, onStop, onRestart y onDestroy
 * ### Práctica 7
