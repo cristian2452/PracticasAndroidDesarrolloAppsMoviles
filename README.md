@@ -26,3 +26,5 @@
   * **Objetivo:** Crear una aplicación que convierta unidades de grados Fahrenheit a grados Centigrados.
 * ### Práctica 12
   * **Objetivo:** Crear una aplicación que ordene una serie de números dados.
+* ### Práctica 13
+  * **Objetivo:** Crear prueba instrumentada de la practica dos.
