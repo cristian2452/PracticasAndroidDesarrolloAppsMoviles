@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Practicas</string>
+    <string name="ButtonText_notification">notificacion</string>
+    <string name="toast">Este es un toast</string>
 </resources>
