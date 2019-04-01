@@ -32,3 +32,5 @@
   * **Objetivo:** Crear prueba instrumentada de la practica tres.
 * ### Práctica 15
   * **Objetivo:** Crear prueba instrumentada de la practica cinco.
+* ### Práctica 16
+  * **Objetivo:** Crear una aplicacion que implemente fragments.
